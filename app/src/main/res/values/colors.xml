@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#FF00BFA5</color>
+    <color name="colorPrimary">#FFFE104D</color>
+
+
+
+    <!--color dialog-->
+    <color name="color_dialog_gray">#ededf3</color>
+    <color name="color_dialog_content">#ed7861</color>
+    <color name="color_dialog_title">#303030</color>
+    <color name="color_dialog_content_prompt">#343434</color>
+
+    <color name="color_type_info">#79b3e4</color>
+    <color name="color_type_help">#FFB300</color>
+    <color name="color_type_wrong">#FFE70E45</color>
+    <color name="color_type_warning">#FFB300</color>
+    <color name="color_type_success">#00bfa5</color>
+    <color name="profile_default_tint">#e0e0e0</color>
+
+
+    <color name="blue">#FF005a9c</color>
+    <color name="lightBlue">#ff6691c4</color>
+    <color name="lighterBlue">#ffcdd8ec</color>
+
+    <color name="light_gray">#6e7f8d</color>
+    <color name="div">#d5c5a4</color>
+    <color name="text">#32353e</color>
+    <color name="textred">#ca362c</color>
+
+
+
+    <!--status color-->
+    <color name="pending">#FFEB3B</color>
+    <color name="approved">#17C5A6</color>
+    <color name="received">#2C3642</color>
+    <color name="rejected">#F44336</color>
+
+    <color name="txt_color">#141a22</color>
+
+
+
+
+
+</resources>

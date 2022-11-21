@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/background_gradient.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/drop_shadow.xml" value="0.1255" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/drop_shadow_stroke.xml" value="0.1255" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/grad.xml" value="0.1255" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/gray_categories_rect.xml" value="0.1" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_account_circle.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_delete_white.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_format_list_bulleted_black_24dp.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_navigate_next.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_notifications_none_black_24dp.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_settings_white.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_signout.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_stay_primary_portrait_black_24dp.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_touch_app_white.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/ic_translate.xml" value="0.197" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn.xml" value="0.1" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn_disable.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn_help.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn_info.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn_warning.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_btn_wrong.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_def_gray.xml" value="0.2295" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_def_gray_left.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/sel_def_gray_right.xml" value="0.2295" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_corners_bottom.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_corners_bottom_normal.xml" value="0.2295" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_left_bottom.xml" value="0.2295" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_left_bottom_normal.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_right_bottom.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_right_bottom_normal.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/shape_top.xml" value="0.216" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/transparent_bg_bordered.xml" value="0.1" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/drawable/transparent_bg_bordered_button.xml" value="0.1" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/activity_settings.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/fragment_first.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/fragment_second.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/item_layout.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/layout_cast_dialog.xml" value="0.17223910840932116" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/layout_choose_dialog.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/layout_colordialog.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/layout/layout_promptdialog.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/menu/cart_menu.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/menu/home_menu.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/menu/main.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/menu/product_menu.xml" value="0.3546875" />
+        <entry key="..\:/ReuseCode/BaseProjectForkan/app/src/main/res/menu/search_menu.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
