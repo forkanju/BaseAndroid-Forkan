@@ -7,7 +7,7 @@ import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.learning.baseprojectforkan.R
-import com.learning.baseprojectforkan.common.data.remote.model.UserModel
+import com.learning.baseprojectforkan.data.remote.model.UserModel
 import com.learning.baseprojectforkan.common.datastore.DataStoreViewModel
 import com.learning.baseprojectforkan.common.dialogs.ChooseAlertDialog
 import com.learning.baseprojectforkan.common.dialogs.CustomAlertDialog

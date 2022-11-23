@@ -1,4 +1,4 @@
-package com.learning.baseprojectforkan.common.data.remote.model
+package com.learning.baseprojectforkan.data.remote.model
 
 
 import com.squareup.moshi.Json

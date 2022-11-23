@@ -3,9 +3,9 @@ package com.learning.baseprojectforkan.common.di
 import android.content.Context
 import com.chuckerteam.chucker.api.ChuckerInterceptor
 import com.learning.baseprojectforkan.BuildConfig
-import com.learning.baseprojectforkan.common.data.remote.api.ApiHelper
-import com.learning.baseprojectforkan.common.data.remote.api.ApiHelperImpl
-import com.learning.baseprojectforkan.common.data.remote.api.ApiService
+import com.learning.baseprojectforkan.data.remote.api.ApiHelper
+import com.learning.baseprojectforkan.data.remote.api.ApiHelperImpl
+import com.learning.baseprojectforkan.data.remote.api.ApiService
 import com.learning.baseprojectforkan.common.utils.Constants.Companion.BASE_URL
 import com.learning.baseprojectforkan.common.utils.NetworkHelper
 import okhttp3.OkHttpClient

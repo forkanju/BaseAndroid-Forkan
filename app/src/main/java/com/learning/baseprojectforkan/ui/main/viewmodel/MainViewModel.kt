@@ -4,9 +4,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.learning.baseprojectforkan.common.data.remote.model.User
-import com.learning.baseprojectforkan.common.data.remote.model.UserModel
-import com.learning.baseprojectforkan.common.data.remote.repository.MainRepository
+import com.learning.baseprojectforkan.data.remote.model.UserModel
+import com.learning.baseprojectforkan.data.remote.repository.MainRepository
 import com.learning.baseprojectforkan.common.utils.NetworkHelper
 import com.learning.baseprojectforkan.common.utils.Resource
 import kotlinx.coroutines.launch

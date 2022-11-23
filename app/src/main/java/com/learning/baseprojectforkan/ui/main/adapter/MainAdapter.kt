@@ -3,8 +3,7 @@ package com.learning.baseprojectforkan.ui.main.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.learning.baseprojectforkan.common.data.remote.model.User
-import com.learning.baseprojectforkan.common.data.remote.model.UserModel
+import com.learning.baseprojectforkan.data.remote.model.UserModel
 import com.learning.baseprojectforkan.databinding.ItemLayoutBinding
 
 class MainAdapter(private val users: ArrayList<UserModel.UserModelItem>) :

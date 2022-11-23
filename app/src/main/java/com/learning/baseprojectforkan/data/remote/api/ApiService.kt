@@ -1,7 +1,6 @@
-package com.learning.baseprojectforkan.common.data.remote.api
+package com.learning.baseprojectforkan.data.remote.api
 
-import com.learning.baseprojectforkan.common.data.remote.model.User
-import com.learning.baseprojectforkan.common.data.remote.model.UserModel
+import com.learning.baseprojectforkan.data.remote.model.UserModel
 import com.learning.baseprojectforkan.common.utils.Constants.Companion.USERS_ENDPOINT
 import retrofit2.Response
 import retrofit2.http.GET
