@@ -14,8 +14,9 @@ class MainViewModel(
     private val mainRepository: MainRepository,
     private val networkHelper: NetworkHelper
 ) : ViewModel() {
-    private val _users = MutableLiveData<Resource<List<UserModel.UserModelItem>>>()
-    val users: LiveData<Resource<List<UserModel.UserModelItem>>>
+
+    private val _users = MutableLiveData<Resource<List<UserModel.Item>>>()
+    val users: LiveData<Resource<List<UserModel.Item>>>
         get() = _users
 
     init {

@@ -4,9 +4,9 @@ package com.learning.baseprojectforkan.data.remote.model
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 
-class UserModel : ArrayList<UserModel.UserModelItem>(){
+class UserModel : ArrayList<UserModel.Item>(){
     @JsonClass(generateAdapter = true)
-    data class UserModelItem(
+    data class Item(
         @Json(name = "avatar")
         val avatar: String,
         @Json(name = "email")
