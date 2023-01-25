@@ -15,7 +15,7 @@ import org.koin.dsl.module
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 
-/**Here we created the functions we want to provide as dependencies.*/
+/**Here we created the functions we want to provide as dependency.*/
 
 private fun provideNetworkHelper(context: Context) = NetworkHelper(context)
 
@@ -30,7 +30,7 @@ private fun provideOkHttpClientWithChucker(context: Context) = if (BuildConfig.D
     loggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BODY)
     OkHttpClient.Builder()
         .addInterceptor(loggingInterceptor)
-        .addInterceptor(chuckerInterceptor)//added chucker interceptor
+        .addInterceptor(chuckerInterceptor)//added chucker interceptor -> comment out this line to inactive chucker when app release
         .build()
 } else OkHttpClient
     .Builder()
